@@ -58,5 +58,61 @@
 - surface
     - margin-left: 10px
 
+## main
+- section
+    - title section
+    - figure section
+- layout
+    - width: 60%
+    - horizontal center
+- surface
+    - margin-left: 10px
 
-            
+### title section
+- section
+    - h3 title
+    - p description
+- layout
+    - width: 60%
+    - horizontal center
+- surface
+    - margin-left: 10px   
+
+### figure section
+- section
+    - 2 figure
+- layout
+    - space between
+- surface
+
+#### figure
+- section
+    - image
+    - figcaption
+- layout
+    - width: 48%/per
+    - horizontal center
+    - vertical arrangement
+- surface
+    - bg-color: white
+    - padding: 15px
+    
+##### figcaption
+- section
+    - h3 title
+    - p description
+    - button
+- layout
+- surface
+
+###### description
+- section
+- layout
+- surface
+    - color: lightgray
+    
+###### button
+- section
+- layout
+- surface
+    - margin-top: 50px
