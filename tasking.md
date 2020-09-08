@@ -70,7 +70,7 @@
 
 ### title section
 - section
-    - h3 title
+    - h2 title
     - p description
 - layout
     - width: 60%
@@ -90,7 +90,7 @@
     - image
     - figcaption
 - layout
-    - width: 48%/per
+    - width: 49%/per
     - horizontal center
     - vertical arrangement
 - surface
@@ -109,7 +109,8 @@
 - section
 - layout
 - surface
-    - color: lightgray
+    - color: darkgray
+    - text-align: center
     
 ###### button
 - section
