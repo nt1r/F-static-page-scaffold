@@ -14,7 +14,6 @@
 - section
     - text area div
 - layout
-    - horizontal center
 - surface
     - bg-color: #3b5998
     - color: white
@@ -25,7 +24,9 @@
     - logo text area
     - login text area
 - layout
-    - space between
+    - horizontal center
+    - vertical center
+    - width: 60%
 - surface
 
 #### logo text area
@@ -41,13 +42,21 @@
 - section
 - layout
 - surface
-    - fontSize
+    - font-size: 2em
 
 ##### span register
 - section
 - layout
 - surface
     - bg-color: #42b72a
+    - padding: 2px 10px
+    
+#### login text area
+- section
+    - 3 spans
+- layout
+- surface
+    - margin-left: 10px
 
 
             

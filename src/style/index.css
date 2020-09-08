@@ -20,6 +20,35 @@ ul {
   padding: 0;
 }
 
+header {
+  background-color: #3b5998;
+  color: white;
+}
+
+.text_area_section {
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  padding: 10px 0px;
+}
+
+.logo_text_div {
+  display: flex;
+  align-items: center;
+}
+
+.facebook_span {
+  font-size: 2em;
+  margin-right: 10px;
+}
+
+.register_span {
+  background-color: #42b72a;
+  padding: 2px 10px;
+}
+
 header, main {
   border: 1px solid lightyellow;
 }
